@@ -1,18 +1,23 @@
-body{
-    background-color: antiquewhite; 
+body {
+    background-color: antiquewhite;
 }
-h1{
+
+h1 {
     background-color: azure;
 }
-h2{
+
+h2 {
     background-color: cornflowerblue;
 }
-.klasa1{
+
+.klasa1 {
     background-color: coral;
 }
-.klasa2{
-    background-color:chocolate;
+
+.klasa2 {
+    background-color: chocolate;
 }
-.klasa3{
-    background-color:chartreuse;
+
+.klasa3 {
+    background-color: chartreuse;
 }
